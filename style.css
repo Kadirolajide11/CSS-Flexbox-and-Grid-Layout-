@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box 100;
+}
+
+
+body {
+    background-color: very lightgray;
+}
+
+main {
+    width: 50%;
+    margin: auto;
+    display: flex ;
+    justify-items: left;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.top-content {
+    background-color: rgba(240, 117, 16, 0.932);
+    padding: 4em;
+    
+}
+
+.top-content h3 {
+    color: lightgray;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.top-con {
+    background-color: cyan;
+    padding: 4em;
+}
+
+.top-con h3 {
+    color: lightgray;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.top-conten {
+    background-color: rgb(3, 56, 56);
+    padding: 4em;
+}
+
+.top-conten h3 {
+    color: lightgray;
+    font-size: 15px;
+    padding: 10px;
+}
